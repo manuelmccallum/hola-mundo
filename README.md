@@ -1,4 +1,4 @@
 # hola-mundo
-Mi primera rama.
+Mi primera reporsitorio.
 
 Autor: Manuel Mc Callum.
