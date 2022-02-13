@@ -1,4 +1,4 @@
 # hola-mundo
-Mi primer repositorio de prueba
+Mi primera rama.
 
 Autor: Manuel Mc Callum.
